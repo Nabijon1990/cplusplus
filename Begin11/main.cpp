@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    float a, b;
+    float a, b, c;
 
     cout << "a="; cin >> a;
     cout << "b="; cin >> b;
