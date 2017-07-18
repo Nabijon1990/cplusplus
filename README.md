@@ -1,0 +1,2 @@
+# cplusplus
+Talabalarim uchun namunalar
